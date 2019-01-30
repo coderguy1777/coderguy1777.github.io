@@ -1,0 +1,124 @@
+body {
+    background-color: #32bab1;
+    font-family: Dingbats, serif;
+    -webkit-text-fill-color: #1f546e;
+}
+
+h4 {
+    font-family: "Didact Gothic", serif;
+    max-width: 130px;
+    align-content: center;
+    margin: 0;
+    text-align: center;
+}
+
+.p1 {
+    font-family: "Didact Gothic", serif;
+    display: block;
+    font-size: 15px;
+    margin: 10px;
+    text-align: justify;
+}
+
+.p2 {
+    font-family: "Didact Gothic", serif;
+    text-align: justify;
+    margin: 10px;
+    display: block;
+    font-size: 15px;
+}
+
+.p3 {
+    font-family: "Didact Gothic", serif;
+    font-size: 15px;
+    display: block;
+    margin: 10px;
+    text-align: justify;
+}
+
+.p4 {
+    font-family: "Didact Gothic", serif;
+    text-align: center;
+    font-size: 15px;
+}
+
+h5 {
+    font-family: "Didact Gothic", serif;
+    margin-left: 420px;
+    font-size: 20px;
+}
+
+h6 {
+    font-family: "Didact Gothic", serif;
+    align-content: center;
+    margin-left: 585px;
+    font-size: 20px;
+}
+
+h7 {
+    font-family: "Didact Gothic", serif;
+    font-size: 20px;
+    margin-left: 585px;
+}
+
+hr {
+    max-width: 140px;
+    justify-content: center;
+}
+
+.sidebar {
+    max-width: 120px;
+    max-height: 500px;
+    background-color: #6e0c5c;
+    border-radius: 25px;
+    border-color: black;
+}
+
+.container1 {
+    width: 20rem;
+    height: auto;
+    background-color: #cd4346;
+    justify-items: center;
+    margin-left: 49.50em;
+    position: relative;
+    border-radius: 2px;
+}
+
+.container2 {
+    width: 30rem;
+    height: auto;
+    background-color: #cd4346;
+    justify-content: center;
+    justify-items: center;
+    margin-left: 45em;
+    position: relative;
+    border-radius: 2px;
+}
+
+.container-cover {
+    margin: 0;
+    padding: 0;
+}
+
+.container9 {
+    justify-items: center;
+    display: block;
+    background-color: #cd4346;
+    width: 5em;
+    height: auto;
+    text-align: center;
+    margin-left: 56.50em;
+    border-radius: 2px;
+    justify-content: center;
+    position: relative;
+    font-family: "Didact Gothic", sans-serif;
+}
+
+.container10 {
+    justify-items: center;
+    width: 30rem;
+    height: auto;
+    margin-left: 45em;
+    border-radius: 2px;
+    background-color: #cd4346;
+}

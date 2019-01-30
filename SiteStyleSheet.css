@@ -1,0 +1,202 @@
+p.small {
+    line-height: 0.02;
+    text-align: center;
+    margin-top: -10px;
+    outline-width: 1cm;
+    width: 1910px;
+    display: block;
+    word-wrap: break-word;
+}
+
+h1 {
+    font-family: "Didact Gothic", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+}
+
+body {
+    margin: 0;
+}
+
+h2 {
+    font-family: "Didact Gothic", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+    text-align: center;
+    margin-top: -10px;
+}
+
+h3 {
+    font-family: "Didact Gothic", serif;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+    text-align: center;
+    margin-top: -5px;
+}
+
+p.exp {
+    max-width: 150px;
+}
+
+p {
+    font-family: "Didact Gothic", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    word-wrap: break-word;
+    font-weight: 400;
+    line-height: 20px;
+    margin-top: -15px;
+    text-align: center;
+}
+
+pre {
+    font-family: Arimo;
+    font-size: 13px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 18.5714px;
+}
+
+div.container1 {
+    height: 5em;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+div.container1 p {
+    margin: 0
+}
+
+hr {
+    margin-top: -15px;
+    align-self: center;
+    max-width: 290px;
+}
+
+.hr2 {
+    margin-top: -10px;
+    align-self: center;
+    position: center;
+    max-width: 175px;
+}
+
+.hr3 {
+    margin-top: -24px;
+    align-self: center;
+    max-width: 290px;
+}
+
+.button {
+    text-shadow: 0 0 2px rgba(68, 170, 187, 0.73);
+    margin-left: 230px;
+    margin-right: 20px;
+    background-color: #4ABDAC;
+    padding: 20px 36px ;;
+    margin-top: 20px;
+    font-family: Didact Gothic, serif;
+    font-size: 20px;
+    align-content: center;
+    max-height: 90px;
+    max-width: 900px;
+    border-radius: 20px;
+    border-color: #4ABDAC;
+    border-style: solid;
+}
+
+.button2 {
+    text-shadow: 0 0 2px rgba(68, 170, 187, 0.73);
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    background-color: #4ABDAC;
+    padding: 20px 36px;;
+    border-radius: 20px;
+    font-family: Didact Gothic, serif;
+    font-size: 20px;
+    max-height: 90px;
+    max-width: 900px;
+    border-color: #4ABDAC;
+    border-style: solid;
+}
+.button3 {
+    text-shadow: 0 2px 2px rgba(68, 170, 187, 0.73);
+    margin-left: 145px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    background-color: #4ABDAC;
+    padding: 20px 36px;;
+    border-radius: 20px;
+    font-family: Didact Gothic, serif;
+    font-size: 20px;
+    max-height: 90px;
+    max-width: 900px;
+    border-color: #4ABDAC;
+    border-style: solid;
+}
+
+.button4 {
+    text-shadow: 0 2px 2px rgba(68, 170, 187, 0.73);
+    margin-left: 195px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    background-color: #4ABDAC;
+    padding: 20px 36px;;
+    border-radius: 20px;
+    font-family: Didact Gothic, serif;
+    font-size: 20px;
+    max-height: 90px;
+    max-width: 400px;
+    border-color: #4ABDAC;
+    border-style: solid;
+}
+
+.cover-container {
+    background-image: linear-gradient(to right, #92aafe, #c4e2d1);
+}
+
+.cover {
+    margin-top: 0rem;
+    margin-bottom: 10rem;
+}
+
+.bottom-margin {
+    background-color: #33a1b9;
+    max-height: 50px;
+    max-width: 900px;
+    border-radius: 20px;
+}
+
+.container4-cover {
+    margin: 0;
+    padding: 0;
+}
+
+.container4 {
+    width: fit-content;
+    height: fit-content;
+    word-break: break-all;
+    background-color: #c4e2d1;
+}
+
+.container5 {
+    width: 30rem;
+    height: auto;
+    display: inline-block;
+    background-color: #33a1b9;
+    position: relative;
+    justify-content: center;
+    align-content: center;
+    margin-left: 49.60em;
+}
