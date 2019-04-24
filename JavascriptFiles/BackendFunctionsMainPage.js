@@ -12,3 +12,7 @@ function animationprojects() {
 function codeupdates() {
     window.open('CodingProjectsArea.html', '_self', false);
 }
+
+function aboutMe() {
+    console.log(2);
+}
