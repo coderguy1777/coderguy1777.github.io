@@ -14,5 +14,5 @@ function codeupdates() {
 }
 
 function aboutMe() {
-    console.log(2);
+    window.open('Aboutme.html', '_self', false);
 }
