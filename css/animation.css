@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.container-cover {
+    display: flex;
+    margin-top: 75px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.year-box {
+    display: flex;
+    margin-top: 20px;
+    width: 300px;
+    height: 200px;
+    border-radius: 5px;
+    font-family: 'B612 Mono', monospace;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+    outline: none;
+    outline-color: transparent;
+    border-color: transparent;
+}
+
+.year-num {
+    -webkit-text-fill-color: black;
+}
+
+.year-num:hover {
+    -webkit-text-fill-color: white;
+    background-color: black;
+}

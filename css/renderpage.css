@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+.container-cover {
+    display: flex; 
+    align-items: center;
+    flex-direction: row;
+}
+
+.render-box-1{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 20px;
+    max-width: 275px;
+    max-height: 275px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 2px;
+    float: right;
+}
