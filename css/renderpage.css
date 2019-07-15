@@ -18,5 +18,29 @@ body {
     max-height: 275px;
     padding: 5px 5px 5px 5px;
     border-radius: 2px;
+    align-items: center;
+    justify-content: center;
     float: right;
+}
+
+
+
+.descrip {
+    display: flex;
+    height: auto;
+    width: auto;
+    position: absolute;
+    font-family: 'Quicksand', sans-serif;
+    -webkit-text-fill-color: transparent;
+}
+
+.render-box-1:hover .descrip {
+    transition: 0.5s;
+    font-size: 15px;
+    -webkit-text-fill-color: black;
+}
+
+.render-box-1:hover .render-title {
+    transition: .5s ease;
+    opacity: 0.45;
 }
