@@ -7,5 +7,5 @@ function openAnimation() {
 }
 
 function openGames() {
-    window.open('games.html', '_self', false);
+    window.open('programming.html', '_self', false);
 }
