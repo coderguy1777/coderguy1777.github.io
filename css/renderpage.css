@@ -24,6 +24,16 @@ body {
 }
 
 
+img {
+    max-width: 285px;
+    max-height: 285px;
+}
+
+video {
+    max-width: 285px;
+    max-height: 285px;
+}
+
 
 .descrip {
     display: flex;
