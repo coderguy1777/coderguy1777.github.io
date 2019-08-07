@@ -23,6 +23,35 @@ body {
     float: right;
 }
 
+.btn-container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+}
+
+.btn-box {
+    width: auto;
+    height: auto;
+}
+
+.Carousel-button {
+    outline: transparent;
+    border: none;
+    border-radius: 2px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.Carousel-button:hover {
+    background-color: black;
+    -webkit-text-fill-color: white;
+}
+
+
 
 img {
     max-width: 285px;

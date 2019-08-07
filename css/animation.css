@@ -11,7 +11,6 @@ body {
     align-items: center;
     flex-direction: column;
 }
-
 .year-box {
     display: flex;
     margin-top: 20px;
