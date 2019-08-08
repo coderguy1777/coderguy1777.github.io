@@ -1,0 +1,21 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    font-size: 25px;
+    -webkit-text-fill-color: white;
+}
+
+.dark-h1 {
+    font-size: 25px;
+    -webkit-text-fill-color: black;
+}
+
+p {
+    -webkit-text-fill-color: white;
+}
+
+.dark-p {
+    -webkit-text-fill-color: black;
+}
