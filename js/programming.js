@@ -1,29 +1,23 @@
 let svarogRepo = document.getElementById("svarog");
-let iphysicsRepo = document.getElementById("iphys");
-let openfootballRepo = document.getElementById("opnftb");
+let phi_matlib = document.getElementById("phimath");
+let open_WIFIrepo = document.getElementById("open-wifi");
 let sqbs2Repo = document.getElementById("sqbs2");
-let rapfinderRepo = document.getElementById("rapbt");
 let javabowlRepo = document.getElementById("jvbowl");
 let coderguy1777siteRepo = document.getElementById("psrsite");
-
 svarogRepo.addEventListener('click', function() {
     window.open('https://www.github.com/coderguy1777/SvarogGameEngine');
 });
 
-iphysicsRepo.addEventListener('click', function() {
-    window.open('https://www.github.com/coderguy1777/iPhysics');
+phi_matlib.addEventListener('click', function() {
+    window.open('https://www.github.com/coderguy1777/PhiMath');
 });
 
-openfootballRepo.addEventListener('click', function() {
-    window.open('https://www.github.com/coderguy1777/OpenFootball');
+open_WIFIrepo.addEventListener('click', function() {
+    window.open('https://www.github.com/coderguy1777/Open-WIFI');
 });
 
 sqbs2Repo.addEventListener('click', function() {
     window.open('https://www.github.com/coderguy1777/SQBS2.0');
-});
-
-rapfinderRepo.addEventListener('click', function() {
-    window.open('https://www.github.com/coderguy1777/DiscordRapBot');
 });
 
 javabowlRepo.addEventListener('click', function() {
